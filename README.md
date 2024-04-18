@@ -1,7 +1,8 @@
 The NBA post season is here!
-# h1 heading
-## h2 heading
-### h3 heading 
-#### h4 heading 
-##### h5 heading
-###### h6 heading
+Here is what the playoffs look like
+# in the west first round
+# 1 seed thunder VS 
+# 4 seed clippers VS 5 seed Mavs 
+# 3 seed timberwolves VS 6 seed suns
+# 2 seed Nuggets VS 7 seed Lakers
+
