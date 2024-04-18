@@ -1,5 +1,5 @@
 The NBA post season is here!
-Here is what the playoffs look like
+Here is what the playoffs look like, and post season award winners
 # in the west first round
 ## 1 seed thunder vs 
 ## 4 seed clippers vs 5 seed Mavs 
