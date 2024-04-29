@@ -14,9 +14,18 @@ Here is what the playoffs look like, and post season award winners
 ## 2 seed Knicks vs 7 seed 76ers
 ### I believe the Celtics will make it back to the finals
 
+# My post season reward predictions:
+## MVP: Luka Dončić
+## Most Improved Player: Cody White
+## Rookie of the year: Victor Wembanyama
+## Sixth Man Of The Years: Naz Reid
+## Clutch Player Of The Years: Steph Curry
+## Coach Of The Year: Mark Daigneault
+
 # Post Season awards:
 ## MVP: 
-## Rookie of the year:
-## Sixth man of the year:
-## Clutch player of the year
-## Coach of the Year:
+## Most Improved Player: Tyrise Maxey
+## Rookie Of The Year: Victor Wembanyama
+## Sixth Man Of The Year: Naz Reid
+## Clutch Player Of The Year: Steph Curry
+## Coach Of The Year: Mark Daigneault
